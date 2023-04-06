@@ -3,12 +3,15 @@ Models\Cargo.class
 Models\Comuna.class
 Models\Pais.class
 Models\ExpedienteUsuario.class
-poo_2_semana_5\ConexionMySQL.class
 Main.class
 Models\CorreoColaborador.class
 Models\Region.class
+Views\ListColaborador.class
 connection\ConexionMySQL.class
 Controllers\ColaboradorDao.class
+Views\PanelControl.class
+connection\Utils.class
 Models\Colaborador.class
-connection\Conexion.class
 Models\Empresa.class
+Views\AddColaborador.class
+Views\LoginUser.class
